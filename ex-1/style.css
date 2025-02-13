@@ -1,1 +1,40 @@
-/* Start coding here */
+* {
+    margin: 0;
+    font-family: sarabun;
+}
+
+header {
+    background-color:#92AABD;
+    color: #183B56;
+    width: 1433;
+    height: 120;      
+    padding: 30px;
+}
+
+h1 {
+    font-size: 32px; 
+}
+
+.travel-card {
+    border: 3px solid black ;
+    margin: 30px 30px;
+    width: 536px;
+    height: 421px;
+    border-radius: 8px;
+}
+
+.travel-title {
+    margin-top: 30px;
+    margin-left: 24px;
+}
+
+.travel-img {
+    margin-top: 48px;
+    margin-left: 25px;
+}
+
+p {   
+    margin-top: 36px;
+    margin-left: 24px;
+    margin-bottom: 36px;
+}
