@@ -1,1 +1,39 @@
-/* Start coding here */
+* {
+    margin: 0;
+    font-family: Sarabun;
+}
+header {
+    background-color: #92AABD;
+    height: 95px;
+    
+}
+h1 {
+    font-weight: 700;
+    font-size: 32px;
+    line-height: 16px;
+    letter-spacing: 0%;
+    color:#183B56;
+    padding: 30px;
+}
+
+.travel-card {
+    border: 5px solid black;
+    margin: 30px 30px;
+    width: 700px;
+}   
+
+.title-travel {
+    margin: 30px 20px;
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 26px;
+    letter-spacing: 0%;
+}
+
+.travel-img {
+    margin: 0px 20px;
+}
+
+p {
+    margin: 20px 20px;
+}
